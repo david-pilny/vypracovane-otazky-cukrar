@@ -1,5 +1,10 @@
 # Vejce
 
+<br />
+<a href="/pdf/suroviny/vejce.pdf" download>
+  📄 Stáhnout PDF
+</a>
+
 ## Charakteristika
 
 Vejce je velká buňka se zárodkem budoucího živočicha a zásobou živin pro jeho vývoj. Zárodek i živiny chrání skořápka. V potravinářství se pojmem „vejce“ rozumí vždy vejce slepičí.

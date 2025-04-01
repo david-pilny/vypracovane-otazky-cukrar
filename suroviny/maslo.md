@@ -1,4 +1,15 @@
+---
+prev:
+  text: 'Suroviny'
+  link: '/suroviny'
+---
+
 # Máslo
+
+<br />
+<a href="/pdf/suroviny/maslo.pdf" download>
+  📄 Stáhnout PDF
+</a>
 
 ## Charakteristika
 

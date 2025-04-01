@@ -2,4 +2,4 @@
 
 ## Stránka se připravuje 🚧  
 
-Tento obsah se právě tvoří. Brzy zde najdete všechny potřebné informace. Děkujeme za trpělivost!  
+Tento obsah se právě tvoří. Brzy zde najdeš všechny potřebné informace. Děkujeme za trpělivost!  
